@@ -1,0 +1,56 @@
+C:\Users\ENES\Desktop\2020 MERSİN_GÜZ_DERSLER\Bilgisayar Grafikleri\Open_GL\OpenGl_1\OpenGl_1\bin\Debug\OpenGl_1.exe.config
+C:\Users\ENES\Desktop\2020 MERSİN_GÜZ_DERSLER\Bilgisayar Grafikleri\Open_GL\OpenGl_1\OpenGl_1\bin\Debug\OpenGl_1.exe
+C:\Users\ENES\Desktop\2020 MERSİN_GÜZ_DERSLER\Bilgisayar Grafikleri\Open_GL\OpenGl_1\OpenGl_1\bin\Debug\OpenGl_1.pdb
+C:\Users\ENES\Desktop\2020 MERSİN_GÜZ_DERSLER\Bilgisayar Grafikleri\Open_GL\OpenGl_1\OpenGl_1\bin\Debug\Tao.OpenGl.dll
+C:\Users\ENES\Desktop\2020 MERSİN_GÜZ_DERSLER\Bilgisayar Grafikleri\Open_GL\OpenGl_1\OpenGl_1\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\ENES\Desktop\2020 MERSİN_GÜZ_DERSLER\Bilgisayar Grafikleri\Open_GL\OpenGl_1\OpenGl_1\bin\Debug\Tao.OpenGl.xml
+C:\Users\ENES\Desktop\2020 MERSİN_GÜZ_DERSLER\Bilgisayar Grafikleri\Open_GL\OpenGl_1\OpenGl_1\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\ENES\Desktop\2020 MERSİN_GÜZ_DERSLER\Bilgisayar Grafikleri\Open_GL\OpenGl_1\OpenGl_1\obj\Debug\OpenGl_1.csprojResolveAssemblyReference.cache
+C:\Users\ENES\Desktop\2020 MERSİN_GÜZ_DERSLER\Bilgisayar Grafikleri\Open_GL\OpenGl_1\OpenGl_1\obj\Debug\OpenGl_1.Form1.resources
+C:\Users\ENES\Desktop\2020 MERSİN_GÜZ_DERSLER\Bilgisayar Grafikleri\Open_GL\OpenGl_1\OpenGl_1\obj\Debug\OpenGl_1.Properties.Resources.resources
+C:\Users\ENES\Desktop\2020 MERSİN_GÜZ_DERSLER\Bilgisayar Grafikleri\Open_GL\OpenGl_1\OpenGl_1\obj\Debug\OpenGl_1.csproj.GenerateResource.Cache
+C:\Users\ENES\Desktop\2020 MERSİN_GÜZ_DERSLER\Bilgisayar Grafikleri\Open_GL\OpenGl_1\OpenGl_1\obj\Debug\OpenGl_1.exe
+C:\Users\ENES\Desktop\2020 MERSİN_GÜZ_DERSLER\Bilgisayar Grafikleri\Open_GL\OpenGl_1\OpenGl_1\obj\Debug\OpenGl_1.pdb
+C:\Users\ENES\Desktop\2020 MERSİN_GÜZ_DERSLER\Bilgisayar Grafikleri\Open_GL\OpenGl_2\OpenGl_1\bin\Debug\OpenGl_1.exe.config
+C:\Users\ENES\Desktop\2020 MERSİN_GÜZ_DERSLER\Bilgisayar Grafikleri\Open_GL\OpenGl_2\OpenGl_1\obj\Debug\OpenGl_1.exe
+C:\Users\ENES\Desktop\2020 MERSİN_GÜZ_DERSLER\Bilgisayar Grafikleri\Open_GL\OpenGl_2\OpenGl_1\obj\Debug\OpenGl_1.pdb
+C:\Users\ENES\Desktop\2020 MERSİN_GÜZ_DERSLER\Bilgisayar Grafikleri\Open_GL\OpenGl_2\OpenGl_1\bin\Debug\OpenGl_1.exe
+C:\Users\ENES\Desktop\2020 MERSİN_GÜZ_DERSLER\Bilgisayar Grafikleri\Open_GL\OpenGl_2\OpenGl_1\bin\Debug\OpenGl_1.pdb
+C:\Users\ENES\Desktop\2020 MERSİN_GÜZ_DERSLER\Bilgisayar Grafikleri\Open_GL\OpenGl_2\OpenGl_1\bin\Debug\Tao.OpenGl.dll
+C:\Users\ENES\Desktop\2020 MERSİN_GÜZ_DERSLER\Bilgisayar Grafikleri\Open_GL\OpenGl_2\OpenGl_1\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\ENES\Desktop\2020 MERSİN_GÜZ_DERSLER\Bilgisayar Grafikleri\Open_GL\OpenGl_2\OpenGl_1\bin\Debug\Tao.OpenGl.xml
+C:\Users\ENES\Desktop\2020 MERSİN_GÜZ_DERSLER\Bilgisayar Grafikleri\Open_GL\OpenGl_2\OpenGl_1\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\ENES\Desktop\2020 MERSİN_GÜZ_DERSLER\Bilgisayar Grafikleri\Open_GL\OpenGl_2\OpenGl_1\obj\Debug\OpenGl_1.csprojResolveAssemblyReference.cache
+C:\Users\ENES\Desktop\2020 MERSİN_GÜZ_DERSLER\Bilgisayar Grafikleri\Open_GL\OpenGl_2\OpenGl_1\obj\Debug\OpenGl_1.Form1.resources
+C:\Users\ENES\Desktop\2020 MERSİN_GÜZ_DERSLER\Bilgisayar Grafikleri\Open_GL\OpenGl_2\OpenGl_1\obj\Debug\OpenGl_1.Properties.Resources.resources
+C:\Users\ENES\Desktop\2020 MERSİN_GÜZ_DERSLER\Bilgisayar Grafikleri\Open_GL\OpenGl_2\OpenGl_1\obj\Debug\OpenGl_1.csproj.GenerateResource.Cache
+C:\Users\kocar\Desktop\OpenGl_2\OpenGl_1\bin\Debug\OpenGl_1.exe.config
+C:\Users\kocar\Desktop\OpenGl_2\OpenGl_1\bin\Debug\OpenGl_1.exe
+C:\Users\kocar\Desktop\OpenGl_2\OpenGl_1\bin\Debug\OpenGl_1.pdb
+C:\Users\kocar\Desktop\OpenGl_2\OpenGl_1\bin\Debug\Tao.OpenGl.dll
+C:\Users\kocar\Desktop\OpenGl_2\OpenGl_1\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\kocar\Desktop\OpenGl_2\OpenGl_1\bin\Debug\Tao.OpenGl.xml
+C:\Users\kocar\Desktop\OpenGl_2\OpenGl_1\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\kocar\Desktop\OpenGl_2\OpenGl_1\obj\Debug\OpenGl_1.csprojAssemblyReference.cache
+C:\Users\kocar\Desktop\OpenGl_2\OpenGl_1\obj\Debug\OpenGl_1.Form1.resources
+C:\Users\kocar\Desktop\OpenGl_2\OpenGl_1\obj\Debug\OpenGl_1.Properties.Resources.resources
+C:\Users\kocar\Desktop\OpenGl_2\OpenGl_1\obj\Debug\OpenGl_1.csproj.GenerateResource.cache
+C:\Users\kocar\Desktop\OpenGl_2\OpenGl_1\obj\Debug\OpenGl_1.csproj.CoreCompileInputs.cache
+C:\Users\kocar\Desktop\OpenGl_2\OpenGl_1\obj\Debug\OpenGl_1.csproj.CopyComplete
+C:\Users\kocar\Desktop\OpenGl_2\OpenGl_1\obj\Debug\OpenGl_1.exe
+C:\Users\kocar\Desktop\OpenGl_2\OpenGl_1\obj\Debug\OpenGl_1.pdb
+C:\Users\Melisa\Desktop\18-701-038\OpenGl_1\bin\Debug\OpenGl_1.exe.config
+C:\Users\Melisa\Desktop\18-701-038\OpenGl_1\bin\Debug\OpenGl_1.exe
+C:\Users\Melisa\Desktop\18-701-038\OpenGl_1\bin\Debug\OpenGl_1.pdb
+C:\Users\Melisa\Desktop\18-701-038\OpenGl_1\bin\Debug\Tao.OpenGl.dll
+C:\Users\Melisa\Desktop\18-701-038\OpenGl_1\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\Melisa\Desktop\18-701-038\OpenGl_1\bin\Debug\Tao.OpenGl.xml
+C:\Users\Melisa\Desktop\18-701-038\OpenGl_1\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\Melisa\Desktop\18-701-038\OpenGl_1\obj\Debug\OpenGl_1.csprojAssemblyReference.cache
+C:\Users\Melisa\Desktop\18-701-038\OpenGl_1\obj\Debug\OpenGl_1.Form1.resources
+C:\Users\Melisa\Desktop\18-701-038\OpenGl_1\obj\Debug\OpenGl_1.Properties.Resources.resources
+C:\Users\Melisa\Desktop\18-701-038\OpenGl_1\obj\Debug\OpenGl_1.csproj.GenerateResource.cache
+C:\Users\Melisa\Desktop\18-701-038\OpenGl_1\obj\Debug\OpenGl_1.csproj.CoreCompileInputs.cache
+C:\Users\Melisa\Desktop\18-701-038\OpenGl_1\obj\Debug\OpenGl_1.csproj.CopyComplete
+C:\Users\Melisa\Desktop\18-701-038\OpenGl_1\obj\Debug\OpenGl_1.exe
+C:\Users\Melisa\Desktop\18-701-038\OpenGl_1\obj\Debug\OpenGl_1.pdb
